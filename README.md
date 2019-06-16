@@ -1,6 +1,8 @@
 # raptorremake
 A remake of the old raptor game in processing. 
 
+Part of a two week project. Done as a challenge. 
+
 Features: 
 
 Different levels.
